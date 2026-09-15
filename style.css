@@ -1,0 +1,4 @@
+body {background-color: rgb(134, 170, 221);font-family: Arial, sans-serif; font-size: 16px;margin: 30px;}
+h1, h2 {color:rgb(236, 10, 214); font-family: Arial, sans-serif; font-size: 48px;margin: 30px;}
+p {color:rgb(174, 28, 227); font-family: Arial, sans-serif; font-size: 16px;margin: 30px;}
+div{width:100px; height:150px; background-color: rgb(25, 120, 151); border: 3px solid black; margin: 10px; padding: 10px;}
